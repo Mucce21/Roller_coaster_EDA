@@ -10,4 +10,4 @@ steps-
 4.Feature understaning
 5.Feature relationships
 
-findings- found out that around the 50s-60s when roller coasters stated using steel as material the roller coaster speed and height got drastically dincreased.
+findings- found out that around the 50s-60s when roller coasters stated using steel as material the roller coaster speed and height got drastically increased.
