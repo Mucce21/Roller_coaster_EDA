@@ -1,5 +1,5 @@
 # Roller_coaster_EDA
-Exploratory Data Analysis on thw data which contains information about over 1000 rollercoasters in America. Information was scraped from wikipedia and DB was downloaded from Kaggle.
+Exploratory Data Analysis on the data which contains information about over 1000 rollercoasters in America. Information was scraped from wikipedia and DB was downloaded from Kaggle.
 
 goal- The goal of this project is to do EDA on the coaster_db by doing that we understand the data, identify patterns and gain insights before modeling or analysis.
 
